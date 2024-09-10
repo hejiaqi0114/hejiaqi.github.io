@@ -49,16 +49,13 @@ interests:
 education:
   - area: PhD student Bioscience engineering 
     institution: KU Leuven
-    date_start: 2021-09-01
-    date_end: 2025-09-01
+    year: Sept. 2021 - Present
   - area: MEng Food technology 
     institution: KU Leuven
-    date_start: 2019-09-01
-    date_end: 2021-07-02
+    year: Sept. 2019 - Jul. 2021
   - area: BSc Agronomy 
     institution: Nanjing Agricultural university 
-    date_start: 2015-09-01
-    date_end: 2019-07-01
+    year: Sept. 2015 - July. 2019
 
 
 ---
