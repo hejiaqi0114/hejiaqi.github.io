@@ -58,7 +58,7 @@ education:
   - area: BSc Agronomy 
     institution: Nanjing Agricultural university 
     date_start: 2015-09-01
-    date_end: 2019-06-31
+    date_end: 2019-07-01
 
 
 ---
