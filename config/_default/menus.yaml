@@ -9,7 +9,7 @@ main:
     weight: 10
 
   - name: Blog
-    url: /#blog
+    url: /Blogs
     weight: 11
 
   - name: Publications
