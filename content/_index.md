@@ -19,6 +19,7 @@ sections:
       #button:
       #  text: Download CV
       #  url: uploads/resume.pdf
+
     design:
       css_class: dark
       background:
@@ -44,7 +45,7 @@ sections:
   #     view: article-grid
   #     columns: 2
 
-  - block: collection
+  - block: pages 
     content:
       title: Recent Publications
       text: ""
@@ -54,6 +55,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
+      columns: 2
+
 
   # - block: collection
   #   id: talks
