@@ -5,12 +5,8 @@
 
 # Appearance
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: L
-  #mode: system
-  #color: emerald
+  mode: system
+  color: emerald
 
 # SEO
 marketing:
@@ -33,17 +29,13 @@ marketing:
 # Site header
 header:
   navbar:
+    # Display the navigation bar?
     enable: true
-    # blox: "navbar"
-    # fixed_to_top: true
-    # show_search: true
-    # show_theme_chooser: true
-    align: l
-    show_logo: true
-    show_language: false
-    show_day_night: true
+    # Choose a built-in navigation blox
+    blox: "navbar"
+    fixed_to_top: true
     show_search: true
-    highlight_active_link: true
+    show_theme_chooser: true
     logo:
       text: "Your Name"
 
@@ -65,11 +57,6 @@ locale:
 
 # Site features
 features:
-  syntax_highlighter:
-    enable: true
-    extra_languages:
-      - r
-      - latex
   math:
     enable: false
   privacy_pack:
