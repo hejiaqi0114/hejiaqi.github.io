@@ -9,11 +9,11 @@ main:
     weight: 10
 
   - name: Blog
-    url: /blog
+    url: /#blog
     weight: 11
 
   - name: Publications
-    url: /publications
+    url: /#publications
     weight: 12
 
   - name: Contact
