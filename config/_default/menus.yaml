@@ -13,7 +13,7 @@ main:
     weight: 11
 
   - name: Publications
-    url: /#publications
+    url: /publication
     weight: 12
 
   - name: Contact
