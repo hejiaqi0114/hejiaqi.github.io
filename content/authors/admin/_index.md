@@ -24,7 +24,7 @@ role: PhD candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: KU Leuven (Mechatronica, Biostatistiek en Sensoren (MeBioS), Leuven (Arenberg))
+  - name: KU Leuven (MeBioS)
     url: https://research.kuleuven.be/portal/nl/unit/50463906
 
 # Social network links
