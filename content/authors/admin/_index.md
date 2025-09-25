@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiaqi He 何佳琦
+title: Jiaqi He
 
 # Name pronunciation (optional)
 name_pronunciation: ''
