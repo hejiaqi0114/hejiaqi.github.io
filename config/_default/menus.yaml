@@ -3,6 +3,9 @@
   #     desired widget in your `content/home/` folder.
   #   The weight parameter defines the order that the links will appear in.
 
+########### navigation menu (controls the menu bar at the top of your site) ##############
+
+
 main:
   - name: Home
     url: /

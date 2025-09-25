@@ -1,7 +1,8 @@
 ############################
-## HUGO MODULES
+## HUGO MODULES (theme and dependency settings - advanced)
 ## Install or uninstall themes and plugins here.
 ## Docs: https://gohugo.io/hugo-modules/
+## usage: rarely used unless that switch to a different theme, add Hugo modules/plugins
 ############################
 
 imports:
