@@ -1,0 +1,20 @@
+/* 1) Wider content area on desktop for article/publication pages */
+@media (min-width: 1200px) {
+  .article-container {
+    max-width: 1000px;
+  }
+}
+/* 2) Slightly wider prose blocks site-wide */
+.max-w-prose {
+  max-width: 75ch;
+}
+/* 3) Optional: make homepage intro feel less cramped */
+@media (min-width: 1200px) {
+  .home-section .max-w-prose {
+    max-width: 85ch;
+  }
+}
+/* 4) Optional fluid base font scaling */
+html {
+  font-size: clamp(15px, 0.35vw + 13px, 18px);
+}
