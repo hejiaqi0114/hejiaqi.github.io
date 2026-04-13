@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Jiaqi's Homepage"
 date: 2022-10-24
 type: landing
 
@@ -10,7 +10,7 @@ design:
 
 sections:
 
-  - block: resume-biography
+  - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin

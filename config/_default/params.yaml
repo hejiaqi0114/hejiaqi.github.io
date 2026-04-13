@@ -7,8 +7,13 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: emerald
+  theme_day: minimal 
+  theme_night: minimal
+  font:minimal
+  font_size:L 
+  
+  # mode: system
+  # color: emerald
 
 # SEO
 marketing:
@@ -39,7 +44,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Jiaqi He"
+      text: "Jiaqi's Homepage"
 
 # Site footer
 footer:
