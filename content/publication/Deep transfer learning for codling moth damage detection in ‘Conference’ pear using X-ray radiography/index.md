@@ -42,7 +42,7 @@ abstract: Early detection of pest infestation is essential for ensuring postharv
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
