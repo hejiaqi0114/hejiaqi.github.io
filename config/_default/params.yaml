@@ -12,8 +12,8 @@ appearance:
   font: minimal 
   font_size:L 
   
-  # mode: system
-  # color: emerald
+# mode: system
+# color: emerald
 
 # SEO
 marketing:
